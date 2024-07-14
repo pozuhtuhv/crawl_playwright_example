@@ -8,3 +8,5 @@
 1. pip install playwright
 2. playwright install
 3. python -u example_run.py
+
+Playwright 공식문서 : https://playwright.dev/docs/intro
